@@ -1786,6 +1786,7 @@ Software for easy installation, management and configuration of self-hosted serv
 
 - [Ansible-NAS](https://github.com/DaveStephens/ansible-nas) - Build a full-featured home server with this playbook and an Ubuntu box. `MIT` `Ansible/Docker`
 - [CasaOS](https://casaos.zimaspace.com/) - Simple, easy-to-use, elegant Home Cloud system. ([Source Code](https://github.com/IceWhaleTech/CasaOS)) `Apache-2.0` `Go/Docker`
+- [Coolify](https://coolify.io) - Open-source self-hosting platform that simplifies deployment and management of applications and services with a user-friendly web interface. Supports Docker and non-Docker apps, databases, storage, and more. ([Source Code](https://github.com/coollabsio/coolify)) `MIT` `TypeScript/Docker`
 - [DietPi](https://dietpi.com/) - Minimal Debian OS optimized for single-board computers, which allows you to easily install and manage several services for selfhosting at home. ([Source Code](https://github.com/MichaIng/DietPi)) `GPL-2.0` `Shell`
 - [DockSTARTer](https://dockstarter.com/) - DockSTARTer helps you get started with home server apps running in Docker. ([Source Code](https://github.com/GhostWriters/DockSTARTer)) `MIT` `Shell`
 - [Dropserver](https://dropserver.org) - An application platform for your personal web services. ([Source Code](https://github.com/teleclimber/Dropserver/)) `Apache-2.0` `Go/Deno`
